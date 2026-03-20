@@ -17,7 +17,7 @@ I also got to know what track loss is and why it causes missed detections
 I also learned what persist=True does in YOLO tracking
 
 ## How to Run
-pip install ultralytics opencv-python
-Add your video file to /video/videoplayback.mp4
-python counter.py
-Press q to quit
+1.pip install ultralytics opencv-python 
+2.Add your video file to /video/videoplayback.mp4 
+3.python counter.py 
+4.Press q to quit
