@@ -1,10 +1,10 @@
 # opencv_projects
 This is my first opencv project 
 
-# It's a simple object counter here we are counting number of cars paas through.
+# It's a simple object counter here we are counting number of cars pass through.
 I am using 'yolov8n.pt' model to detect object 
 in this project I am performing inference.
-the model provide coordinates and gives id to vehicles, then the cordinates are compared in each frames to identify if the vehicle has crossed the line if yes then the count will increase.
+the model provide coordinates and gives id to vehicles, then the coordinates are compared in each frames to identify if the vehicle has crossed the line if yes then the count will increase.
 
 # Limitations 
 It certainly not accurate model as it can miss some cars which pass by
